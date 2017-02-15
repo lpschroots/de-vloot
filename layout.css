@@ -62,7 +62,7 @@ p{
 }
 
 body {
-    background-image: url("file:///C:/Users/Lucps/Documents/Voltooide%20opdrachten/De%20vloot/css/grfx/bg.png");
+    background-image: url("css/grfx/bg.png");
     background-repeat: repeat-x;
     font-family: sans-serif;
 }
@@ -86,7 +86,7 @@ div.container {
 }
  
 div.header{
-    background-image: url("file:///C:/Users/Lucps/Documents/Voltooide%20opdrachten/De%20vloot/css/grfx/header.jpg");
+    background-image: url("css/grfx/header.jpg");
     background-repeat: no-repeat;
     z-index: -1px;
     width: 800px;
